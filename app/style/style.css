@@ -28,7 +28,7 @@ body{
     background: #c1cad1;
     color: #443c66;
     border-bottom: 6px solid #7c9196;
-    margin-top:10px;
+    margin-top:20px;
 }
 .border-blue{
     border:1px dotted blue;
@@ -46,7 +46,7 @@ img {
     justify-content: space-between;
   }
   .flex img {
-    border-radius: 75px;
+    border-radius: 50px;
   }
   .flex p {
     width: 250px;

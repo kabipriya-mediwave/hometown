@@ -1,2 +1,2 @@
 # HOMETOWN WEBPAGE
-npx serve  
+npx serve app - To run 
